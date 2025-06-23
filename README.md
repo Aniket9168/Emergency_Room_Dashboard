@@ -2,5 +2,5 @@
 
 I have created dashboard to find out meaningful insights on Hospital Emergency Room data
 
-![image](https://github.com/user-attachments/assets/d9ccf571-fd10-4500-823f-d5b538f4e15d)
+![image](https://github.com/user-attachments/assets/26ede806-710d-4b68-b08b-4a1dd087885d)
 
