@@ -48,9 +48,7 @@ This dashboard was built using Microsoft Excel with **Power Query**, **Power Piv
 
 ---
 
-## 📷 Preview
 
-![Dashboard Screenshot](Screenshot.png)
 
 ---
 
