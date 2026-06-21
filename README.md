@@ -10,15 +10,45 @@ This dashboard was built using Microsoft Excel with **Power Query**, **Power Piv
 
 ---
 
-## 📊 Key Insights & Visuals
+## 📊 Key Insights 
 
-- ✅ **Total Number of Patients** per month
-- ✅ **Average Wait Time** for emergency patients
-- ✅ **Admission Status**: Admitted vs. Not Admitted
-- ✅ **Age Group Analysis** of patients
-- ✅ **Timeliness**: % of patients seen within 30 minutes
-- ✅ **Gender-wise Distribution** of patients
-- ✅ **Department Referrals** like General Practice, Cardiology, etc.
+1. Patient Volume
+Total of 485 patients visited the ER during the selected month.
+Indicates moderate patient traffic requiring efficient resource planning.
+2. Waiting Time Analysis
+Average patient waiting time is 35.51 minutes.
+Waiting time remains one of the major operational challenges.
+3. Patient Satisfaction
+Satisfaction score is 4.71/5, indicating generally positive patient experiences.
+Reducing wait times can further improve satisfaction levels.
+4. Attendance Performance
+61% of patients were attended on time.
+39% experienced delays, representing an opportunity for process improvement.
+5. Admission Analysis
+48% admitted to hospital.
+52% treated and discharged.
+Nearly half of ER visits required further medical care.
+6. Age Group Analysis
+Highest patient volume observed in:
+70–79 Age Group (71 Patients)
+20–29 Age Group (69 Patients)
+30–39 Age Group (64 Patients)
+7. Gender Analysis
+Male Patients: 51%
+Female Patients: 49%
+Patient distribution is almost balanced.
+8. Department Referral Analysis
+
+Most referrals were directed to:
+
+Department	Patients
+General Practice	91
+Orthopedics	53
+Cardiology	13
+Gastroenterology	12
+Neurology	12
+
+General Practice receives significantly more referrals than other departments.
 
 ---
 
