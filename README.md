@@ -53,19 +53,23 @@ General Practice receives significantly more referrals than other departments.
 ---
 
 💡 Recommendations
-Reduce Waiting Time
+Reduce Waiting Time :
 Increase staffing during peak patient hours.
 Implement fast-track treatment for low-severity cases.
-Improve On-Time Attendance
+
+Improve On-Time Attendance:
 Set operational target of 80%+ on-time patient attendance.
 Monitor delays using real-time dashboards.
-Optimize Department Resources
+
+Optimize Department Resources:
 Allocate additional resources to General Practice and Orthopedics.
 Review referral workflows to balance departmental workload.
-Enhance Patient Experience
+
+Enhance Patient Experience:
 Provide real-time wait-time updates.
 Improve patient communication during delays.
-Improve Capacity Planning
+
+Improve Capacity Planning:
 Forecast patient volume using historical trends.
 Adjust staffing schedules based on expected demand.
 
