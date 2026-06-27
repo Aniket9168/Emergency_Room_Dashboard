@@ -54,7 +54,7 @@ General Practice receives significantly more referrals than other departments.
 
 # # 💡 Recommendations
  
-# Reduce Waiting Time :
+ Reduce Waiting Time :
 Increase staffing during peak patient hours.
 Implement fast-track treatment for low-severity cases.
 
